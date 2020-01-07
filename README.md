@@ -17,4 +17,5 @@ The “Fund” button on a row gets deactivated when someone funds a loan
 I will only see those loans that I have funded. Other lenders should not have access to my data or loans
 
 #=========================================================================
+
 Front-End is done in JS (VUE) while the API is implemented with .NET CORE (C#)
