@@ -18,6 +18,9 @@ I will only see those loans that I have funded. Other lenders should not have ac
 
 #=========================================================================
 
-Front-End is done in JS (VUE) while the API is implemented with .NET CORE (C#)
+Front-End is = JS (VUE)
+API is implemented with .NET CORE (C#)
+Database used is MS SQL Server
 
 deployed to  https:ratesetter.netlify.com
+
